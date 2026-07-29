@@ -8,6 +8,12 @@ estimate terminal value, and calculate intrinsic value per share.
 This project is designed to teach the structure of a DCF. It is intentionally
 simpler than a professional investment-banking or equity-research model.
 
+## Live app
+
+**[Launch the Interactive DCF Valuation Tool](https://meghamsh-dcf.streamlit.app/)**
+
+No installation or GitHub account is required to use the public calculator.
+
 ## Features
 
 - Manual inputs that always remain editable
